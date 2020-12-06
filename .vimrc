@@ -22,7 +22,6 @@ set encoding=utf-8
 call plug#begin()
 Plug 'bfrg/vim-cpp-modern'
 Plug 'flazz/vim-colorschemes'
-"Plug 'sheerun/vim-polyglot'
 Plug 'rafi/awesome-vim-colorschemes'
 call plug#end()
 
